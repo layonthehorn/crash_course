@@ -10,7 +10,8 @@
 //mod functions;
 //mod points_ref;
 //mod structs;
-mod enums;
+//mod enums;
+mod cli;
 
 // main body function
 fn main() {
@@ -26,5 +27,6 @@ fn main() {
     //functions::run();
     //points_ref::run();
     //structs::run();
-    enums::run();
+    //enums::run();
+    cli::run();
 }
