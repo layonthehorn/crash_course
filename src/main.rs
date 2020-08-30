@@ -1,12 +1,14 @@
 //mode print;
 //mod vars;
 //mod types;
-mod strings;
+//mod strings;
+mod tuples;
 
 // main body function
 fn main() {
-    //print::run()
-    //vars::run()
-    //types::run()
-    strings::run()
+    //print::run();
+    //vars::run();
+    //types::run();
+    //strings::run();
+    tuples::run();
 }
