@@ -7,7 +7,8 @@
 //mod vectors;
 //mod conditionals;
 //mod loops;
-mod functions;
+//mod functions;
+mod points_ref;
 
 // main body function
 fn main() {
@@ -20,5 +21,6 @@ fn main() {
     //vectors::run();
     //conditionals::run();
     //loops::run();
-    functions::run();
+    //functions::run();
+    points_ref::run();
 }
