@@ -8,7 +8,8 @@
 //mod conditionals;
 //mod loops;
 //mod functions;
-mod points_ref;
+//mod points_ref;
+mod structs;
 
 // main body function
 fn main() {
@@ -22,5 +23,6 @@ fn main() {
     //conditionals::run();
     //loops::run();
     //functions::run();
-    points_ref::run();
+    //points_ref::run();
+    structs::run();
 }
