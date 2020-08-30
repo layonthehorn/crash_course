@@ -9,7 +9,8 @@
 //mod loops;
 //mod functions;
 //mod points_ref;
-mod structs;
+//mod structs;
+mod enums;
 
 // main body function
 fn main() {
@@ -24,5 +25,6 @@ fn main() {
     //loops::run();
     //functions::run();
     //points_ref::run();
-    structs::run();
+    //structs::run();
+    enums::run();
 }
