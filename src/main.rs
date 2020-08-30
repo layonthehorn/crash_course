@@ -1,6 +1,10 @@
-mod print;
+//mode print;
+//mod vars;
+mod types;
 
 // main body function
 fn main() {
-    print::run()
+    //print::run()
+    //vars::run()
+    types::run()
 }
